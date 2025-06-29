@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Migrations\\20250628221759_removeTabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250628221759_removeTabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\dependencyinjection\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:dependencyinjection\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\models\\courseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:models\\courseregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\data\\trainingcenterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:data\\trainingcenterdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\controllers\\courseregistrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:controllers\\courseregistrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\dtos\\createcourseregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:dtos\\createcourseregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:controllers\\trainerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\dtos\\createtrainerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:dtos\\createtrainerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\models\\trainercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:models\\trainercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\controllers\\traineescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:controllers\\traineescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\dtos\\createtraineedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:dtos\\createtraineedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\controllers\\coursepricehistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:controllers\\coursepricehistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Migrations\\20250628212829_removeColinCoure_addColumn_in_courseVedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250628212829_removeColinCoure_addColumn_in_courseVedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Migrations\\20250628212535_removeColinCoure_addColumn_in_courseVedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250628212535_removeColinCoure_addColumn_in_courseVedio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\dtos\\createcoursevideodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:dtos\\createcoursevideodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\dtos\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:dtos\\createcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|c:\\users\\h\\onedrive\\desktop\\trainigcenterapi\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3EA33F-E88E-415B-84CA-1A7E902F65C2}|TrainigCenterApi.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250628221759_removeTabel.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Migrations\\20250628221759_removeTabel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250628221759_removeTabel.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Migrations\\20250628221759_removeTabel.cs",
+              "RelativeToolTip": "Migrations\\20250628221759_removeTabel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:17:59.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrainingCenterDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Data\\TrainingCenterDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\TrainingCenterDbContext.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Data\\TrainingCenterDbContext.cs",
+              "RelativeToolTip": "Data\\TrainingCenterDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwCAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:14:19.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseRegistrationsController.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Controllers\\CourseRegistrationsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseRegistrationsController.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Controllers\\CourseRegistrationsController.cs",
+              "RelativeToolTip": "Controllers\\CourseRegistrationsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:02:16.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCourseRegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\DTOs\\CreateCourseRegistrationDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateCourseRegistrationDto.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\DTOs\\CreateCourseRegistrationDto.cs",
+              "RelativeToolTip": "DTOs\\CreateCourseRegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T22:02:24.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Models\\CourseRegistration.cs",
+              "RelativeDocumentMoniker": "Models\\CourseRegistration.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Models\\CourseRegistration.cs",
+              "RelativeToolTip": "Models\\CourseRegistration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIAwwA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:27:43.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\DependencyInjection\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\DependencyInjection\\ServiceRegistration.cs",
+              "RelativeToolTip": "DependencyInjection\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA1wBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T20:58:54.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Models\\Trainer.cs",
+              "RelativeToolTip": "Models\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:53:58.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateTrainerDto.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\DTOs\\CreateTrainerDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateTrainerDto.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\DTOs\\CreateTrainerDto.cs",
+              "RelativeToolTip": "DTOs\\CreateTrainerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:54:44.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrainersController.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Controllers\\TrainersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainersController.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Controllers\\TrainersController.cs",
+              "RelativeToolTip": "Controllers\\TrainersController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAACsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:53:38.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TraineesController.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Controllers\\TraineesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TraineesController.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Controllers\\TraineesController.cs",
+              "RelativeToolTip": "Controllers\\TraineesController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwD4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:50:15.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Models\\Trainee.cs",
+              "RelativeDocumentMoniker": "Models\\Trainee.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Models\\Trainee.cs",
+              "RelativeToolTip": "Models\\Trainee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:49:30.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateTraineeDto.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\DTOs\\CreateTraineeDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateTraineeDto.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\DTOs\\CreateTraineeDto.cs",
+              "RelativeToolTip": "DTOs\\CreateTraineeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:48:09.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250628212829_removeColinCoure_addColumn_in_courseVedio.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Migrations\\20250628212829_removeColinCoure_addColumn_in_courseVedio.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250628212829_removeColinCoure_addColumn_in_courseVedio.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Migrations\\20250628212829_removeColinCoure_addColumn_in_courseVedio.cs",
+              "RelativeToolTip": "Migrations\\20250628212829_removeColinCoure_addColumn_in_courseVedio.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:28:29.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrainerCourse.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Models\\TrainerCourse.cs",
+              "RelativeDocumentMoniker": "Models\\TrainerCourse.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Models\\TrainerCourse.cs",
+              "RelativeToolTip": "Models\\TrainerCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:27:33.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250628212535_removeColinCoure_addColumn_in_courseVedio.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Migrations\\20250628212535_removeColinCoure_addColumn_in_courseVedio.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250628212535_removeColinCoure_addColumn_in_courseVedio.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Migrations\\20250628212535_removeColinCoure_addColumn_in_courseVedio.cs",
+              "RelativeToolTip": "Migrations\\20250628212535_removeColinCoure_addColumn_in_courseVedio.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:25:35.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CoursePriceHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Controllers\\CoursePriceHistoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursePriceHistoryController.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Controllers\\CoursePriceHistoryController.cs",
+              "RelativeToolTip": "Controllers\\CoursePriceHistoryController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwCkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T20:59:53.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateCourseVideoDto.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\DTOs\\CreateCourseVideoDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateCourseVideoDto.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\DTOs\\CreateCourseVideoDto.cs",
+              "RelativeToolTip": "DTOs\\CreateCourseVideoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:24:47.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\DTOs\\CreateCourseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateCourseDto.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\DTOs\\CreateCourseDto.cs",
+              "RelativeToolTip": "DTOs\\CreateCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:24:26.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T21:22:06.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\h\\OneDrive\\Desktop\\TrainigCenterApi\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIA1wDAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T20:59:25.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
